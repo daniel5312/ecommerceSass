@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #FFEFE7;
+  width: 1280px;
+  height: 100px;
+}
+
+main {
+  background-color: #7C6A0A;
+  width: 1280px;
+  height: 400px;
+}
+
+#footer {
+  background-color: #FA9500;
+  width: 1280px;
+  height: 300px;
+}/*# sourceMappingURL=main.css.map */
